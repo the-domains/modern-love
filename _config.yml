@@ -1,0 +1,14 @@
+layout_spectrum: 0.9488723
+color:
+  saturation: 0.7117795
+  lightness: 0.2951128
+  brandStrength: 0.283208
+  rhythmicContrast: 0.8233083
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+typography_spectrum: 1
+name: Modern Love
