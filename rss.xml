@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Modern Love]]></title>
         <description><![CDATA[Modern Love]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modern-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 13:06:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 13:06:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-love/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Differences Between True Love And Toxic Love]]></title>
+            <description><![CDATA[<article><h1>5 Differences Between True Love And Toxic Love</h1><p>In true love, the development of self is most important. Both parties should want the best for one another. In toxic love, the primary focus is on the relationship itself, sometimes obsessing over how the two people involved interface. In true love, there is comfort in separate interests.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a1855884b1c803bf5e8153adeee5d4c04ad69c8.jpg"></article>]]></description>
+            <link>http://www.higherperspectives.com/true-love-toxic-love-1406176726.html?c=hp</link>
+            <guid isPermaLink="false">96cbe1c6-673f-4367-bb8a-05539c35c6e1</guid>
+            <pubDate>Thu, 26 May 2016 13:06:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 6 Most Common Reasons Women Decide To Leave Their Men]]></title>
             <description><![CDATA[<article><h1>The 6 Most Common Reasons Women Decide To Leave Their Men</h1><p>The dynamic, boundlessness, and undefinability of love makes it one of the most wonderful experiences in life. It is the most powerful energy we know of. All this makes it highly sought after but notoriously hard to hold on too. In a vacuum, a man and a woman in space, a relationship takes effort and chemistry to succeed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6418bbd9e97241cac6a0a8b0d7101a039d59117b.jpg"></article>]]></description>
